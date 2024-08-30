@@ -6,7 +6,7 @@ Most adaptive system identification analyses  assume the length of the adaptive 
 
 ## Computation requirements
 
-Monte-Carlo simulations code was written using [Numba](https://numba.pydata.org/) for parallelization.
+Monte-Carlo simulation code was written using [Numba](https://numba.pydata.org/) for parallelization.
 
 ## Citation
 
